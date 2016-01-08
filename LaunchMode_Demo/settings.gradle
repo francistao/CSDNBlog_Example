@@ -1,0 +1,1 @@
+include ':standard_demo', ':singletop_demo', ':singletask_demo', ':singleinstance_demo'

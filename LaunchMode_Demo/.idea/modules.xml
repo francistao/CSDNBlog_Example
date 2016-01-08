@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/LaunchMode_Demo.iml" filepath="$PROJECT_DIR$/LaunchMode_Demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/singleinstance_demo/singleinstance_demo.iml" filepath="$PROJECT_DIR$/singleinstance_demo/singleinstance_demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/singletask_demo/singletask_demo.iml" filepath="$PROJECT_DIR$/singletask_demo/singletask_demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/singletop_demo/singletop_demo.iml" filepath="$PROJECT_DIR$/singletop_demo/singletop_demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/standard_demo/standard_demo.iml" filepath="$PROJECT_DIR$/standard_demo/standard_demo.iml" />
+    </modules>
+  </component>
+</project>
